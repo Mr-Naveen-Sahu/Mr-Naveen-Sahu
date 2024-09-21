@@ -1,5 +1,5 @@
-## Hi there 👋
 
+![](https://github.com/Mr-Naveen-Sahu/Mr-Naveen-Sahu/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Naveen Sahu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
